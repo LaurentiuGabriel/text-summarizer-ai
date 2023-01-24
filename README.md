@@ -35,6 +35,6 @@ This function takes a text and a number of sentences as arguments, and returns a
 If you find any bugs or have suggestions for improvements, please open an issue or a pull request.
 
 ## Licensing
-This project is licensed under the MIT License.
+This project is licensed under the ISC License.
 
 
