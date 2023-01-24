@@ -1,5 +1,7 @@
 # Text Summarizer AI :rocket:
 
+![Node Build](https://github.com/LaurentiuGabriel/text-summarizer-ai/actions/workflows/node.js.yml/badge.svg)
+
 A JavaScript library for summarizing text using the TextRank algorithm.
 
 ## Installation
