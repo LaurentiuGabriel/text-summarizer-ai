@@ -8,11 +8,11 @@ A JavaScript library for summarizing text using the TextRank algorithm.
 
 To install the package, run the following command in your project directory:
 ```sh
-npm install text-summarizer
+npm install text-summarizer-ai
 ```
 or
 ```sh
-yarn add text-summarizer
+yarn add text-summarizer-ai
 ```
 ## Usage
 ```javascript
