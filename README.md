@@ -1,4 +1,4 @@
-# Text Summarizer
+# Text Summarizer AI :rocket:
 
 A JavaScript library for summarizing text using the TextRank algorithm.
 
