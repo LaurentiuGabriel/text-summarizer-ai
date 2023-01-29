@@ -16,7 +16,7 @@ yarn add text-summarizer-ai
 ```
 ## Usage
 ```javascript
-import TextSummarizer from 'text-summarizer';
+import TextSummarizer from 'text-summarizer-ai';
 
 const textSummarizer = new TextSummarizer();
 const text = "This is the text that you want to summarize. It can be a long article or a short paragraph. The function will take the text and condense it into a summary using the TextRank algorithm.";
